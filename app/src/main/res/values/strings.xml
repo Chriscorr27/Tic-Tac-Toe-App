@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">Tic_Tac_Toe</string>
+    <string name="welcome_to_tic_tac_toe">Welcome To Tic Tac Toe</string>
+    <string name="todo">TODO</string>
+    <string name="add_symbol">addSymbol</string>
+    <string name="grid">grid</string>
+    <string name="x_s_turn_tap_to_play">X\'s Turn - Tap to play</string>
+    <string name="o_s_turn_tap_to_play">O\'s Turn - Tap to play</string>
+    <string name="x_win">X wins</string>
+    <string name="o_win">O wins</string>
+    <string name="draw">Draw</string>
+    <string name="quit">Quit</string>
+    <string name="score">Score</string>
+    <string name="player_x">Player X :</string>
+    <string name="_0">0</string>
+    <string name="player_o">Player O :</string>
+    <string name="online_match">Online Match</string>
+    <string name="offline_match">Offline Match</string>
+    <string name="your_turn">Your Turn</string>
+    <string name="opponent_turn">Opponent Turn</string>
+    <string name="your_name">your name</string>
+    <string name="name_opponent">name opponent</string>
+    <string name="waiting_for_opponent">Waiting for opponent</string>
+    <string name="join_by_code">Join by code</string>
+    <string name="join">Join</string>
+    <string name="create">create</string>
+    <string name="create_code">Create code</string>
+    <string name="code">Code :</string>
+    <string name="player_1">Player 1 :</string>
+    <string name="player_2">Player 2 :</string>
+    <string name="code1">code</string>
+
+</resources>
